@@ -27,7 +27,7 @@ img2[0].src= images[random2];
 // the if statements that change the html 
 
     if (random1>random2){
-        winner.innerHTML = `winner is player1`
+        winner.innerHTML = ` &#128681 winner is player1`
             }
     else if(random2>random1){
         winner.innerHTML = `winner is player2`
